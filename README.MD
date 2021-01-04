@@ -4,8 +4,8 @@
 
 ###### On computer
 
-![PC](C:\Users\Pichau\Desktop\newSite\PC.JPG)
+![PC](https://github.com/alysonfarias/netflix-clone/blob/main/PC.JPG)
 
 ###### On mobile
 
-![Mobile](C:\Users\Pichau\Desktop\newSite\Mobile.JPG)
+![Mobile](https://github.com/alysonfarias/netflix-clone/blob/main/Mobile.JPG)
